@@ -1,0 +1,6 @@
+include ':base_common'
+include ':module3'
+include ':module2'
+include ':module1'
+include ':app'
+rootProject.name = "commontest"
